@@ -1,1 +1,4 @@
-
+ybap-resolusi
+-belajar git & git hub
+-belajar web depv
+-membuat satu aplikasi dalam 1 minggu paling cepat, paling lama 1 bulan
